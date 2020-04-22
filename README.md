@@ -30,5 +30,3 @@ In the root directory(where `manage.py` recides) run,
 * Step 5
 After the server is running, you can go-to 
 `localhost/graphql` to open the graphql playground.
-
-Postman can be used to test the API
