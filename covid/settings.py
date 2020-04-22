@@ -25,7 +25,7 @@ SECRET_KEY = '*o%3^ub5jahor_m(ebb=ipshkfl1+y)v7in-)3^(-+2=gja4ff'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['0.0.0.0', 'localhost','statewisecovidindia.herokuapp.com']
 
 GRAPHENE = {
     'SCHEMA': 'covid.schema.schema'
