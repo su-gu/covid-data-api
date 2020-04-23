@@ -18,11 +18,11 @@ https://statewisecovidindia.herokuapp.com/graphql/?query={stateWiseData}
 `pipenv shell`
 
 * Install all the required packages
-`pipenv install`
-All the packages are installed. Time to run the Django server.
+  `pipenv install`
+  All the packages are installed. Time to run the Django server.
 
 * In the root directory(where `manage.py` recides) run,
-`python manage.py runserver`
+  `python manage.py runserver`
 
 * After the server is running, you can go-to 
-`localhost/graphql` to open the graphql playground.
+  `localhost/graphql` to open the graphql playground.
