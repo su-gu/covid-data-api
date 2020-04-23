@@ -11,20 +11,17 @@ https://statewisecovidindia.herokuapp.com/graphql/?query={stateWiseData}
 
 
 # To run this project locally: 
-*  
-Install pipenv 
+* Install pipenv 
 `pip install pipenv` 
-*  
-In the root of this project, start the virtualenv
-`pipenv shell`
-*  
-Install all the required packages
-`pipenv install`
 
+* In the root of this project, start the virtualenv
+`pipenv shell`
+
+* Install all the required packages
+`pipenv install`
 All the packages are installed. Time to run the Django server.
 
-*
-In the root directory(where `manage.py` recides) run,
+* In the root directory(where `manage.py` recides) run,
 `python manage.py runserver`
 
 * After the server is running, you can go-to 
