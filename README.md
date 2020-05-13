@@ -9,7 +9,6 @@ https://statewisecovidindia.herokuapp.com/graphql/?query={stateWiseData}
 [GraphQL](https://statewisecovidindia.herokuapp.com/graphql) playground is available
 
 
-
 # To run this project locally: 
 * Install pipenv 
 `pip install pipenv` 
